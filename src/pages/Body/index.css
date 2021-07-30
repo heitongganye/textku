@@ -1,0 +1,12 @@
+.bd{
+    width: 100%;
+}
+.bodys{
+    width: 1200px;
+    margin: 0 auto;
+}
+.bodye{
+    width: 100%;
+    background-color: #eee;
+    padding-bottom: 20px;
+}

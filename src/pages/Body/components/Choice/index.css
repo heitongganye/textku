@@ -1,0 +1,22 @@
+.che{
+    padding: 0 140px ;
+    height: 70px;
+    line-height: 70px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.che1{
+    cursor:pointer; 
+    width: 100%;
+    height: 70px;
+  
+}
+.che1:hover{
+    color: rgb(255, 111, 0);   
+}
+.btm{
+    border-bottom: rgb(255, 111, 0) 1px solid;
+}
+.che2{
+    color: rgb(255, 111, 0);
+}
